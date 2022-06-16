@@ -1,0 +1,39 @@
+1. do we have test planning in agile ?
+	a.yes 
+	b.NO
+
+2.who creates user story?
+	a.Customer
+	b.Product Owner
+	c.Scrum Master
+
+3.who will prioritize the user story?
+	a.Scrum Master
+	b.Produsct Owner
+	c.Developer
+	d.Tester
+
+4. which of these methods involves the end users the most?
+	a.Waterfall
+	b.Agile
+	c.Spiral
+	d.V-Model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.what happens when one or two sprints are not completed on time?
+		
